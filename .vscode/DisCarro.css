@@ -9,7 +9,7 @@ body {
 
 /* ===== Encabezado del evento ===== */
 .header {
-    background: linear-gradient(to right, #6a00ff, #c400ff);
+    background: linear-gradient(to right, #402668, #8c65a5);
     color: white;
     padding: 80px 20px;
     text-align: center;
@@ -30,7 +30,7 @@ body {
     margin-top: 20px;
     padding: 12px 30px;
     background-color: #ffffff;
-    color: #6a00ff;
+    color: #4a2c9c;
     font-size: 1.2rem;
     text-decoration: none;
     border-radius: 30px;
@@ -52,7 +52,7 @@ body {
 .section h2 {
     font-size: 2rem;
     margin-bottom: 15px;
-    color: #6a00ff;
+    color: #4c34a3;
 }
 
 .section p {
@@ -86,7 +86,7 @@ body {
 
 .card h3 {
     margin-bottom: 10px;
-    color: #a000ff;
+    color: #633b97;
 }
 
 .card p {
