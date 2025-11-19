@@ -1,7 +1,7 @@
 body {
     @font-face 
   font-family: 'Monstew';
-  src: url('Monster-High-Font.zip') format('woff2');
+  src: url('Monster-High-Font') format('woff2');
   font-weight: normal;
   font-style: normal;
     margin: 0;
