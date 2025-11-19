@@ -1,11 +1,14 @@
+@font-face {
+  font-family: 'Monster High';
+  src: url('Monster-High-Font/runytunesrevisited.regular.ttf');
+}
+
 body {
-    @font-face {
-  font-family: 'Monster high';
-  src: url('Monster-High-Font/runytunesrevisited.regular.ttf');}
-  
     background-color: #4a477c;
     color: #6e66bd;
+    font-family: 'Monster High', sans-serif; /* Activa la fuente */
 }
+
 
 /* ===== Encabezado del evento ===== */
 .header {
