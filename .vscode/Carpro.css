@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    background-color: #f5f5f5;
+    color: #222;
+}
+
+/* ===== Encabezado del evento ===== */
+.header {
+    background: linear-gradient(to right, #402668, #8c65a5);
+    color: white;
+    padding: 80px 20px;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+}
+
+.header p {
+    font-size: 1.3rem;
+}
