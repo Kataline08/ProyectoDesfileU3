@@ -6,6 +6,8 @@
 body {
     background-color: #4a477c;
     color: #6e66bd;
+    padding: auto;
+    margin: auto;
     font-family: 'Monster High', sans-serif; /* Activa la fuente */
 }
 
