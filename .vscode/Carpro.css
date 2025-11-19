@@ -1,11 +1,8 @@
 body {
-    @font-face 
-  font-family: 'Monstew';
-  src: url('Monster-High-Font/runytunesrevisited.regular.ttf') format('ttf');
-  font-weight: normal;
-  font-style: normal;
-    margin: 2px;
-    padding: 2px;
+    @font-face {
+  font-family: 'Monster high';
+  src: url('Monster-High-Font/runytunesrevisited.regular.ttf');}
+  
     background-color: #4a477c;
     color: #6e66bd;
 }
