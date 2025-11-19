@@ -1,13 +1,13 @@
 body {
     @font-face 
   font-family: 'Monstew';
-  src: url('Monster-High-Font') format('woff2');
+  src: url('Monster-High-Font/runytunesrevisited.regular.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
-    margin: 0;
-    padding: 0;
-    background-color: #f5f5f5;
-    color: #333149;
+    margin: 2px;
+    padding: 2px;
+    background-color: #4a477c;
+    color: #6e66bd;
 }
 
 /* ===== Encabezado del evento ===== */
